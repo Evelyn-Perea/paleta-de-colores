@@ -1,0 +1,76 @@
+h1 {
+  font-size: 50px;
+  font-family: "Mandali", sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Mandali", sans-serif;
+}
+
+.uno {
+  background-color: #eaf2f8;
+}
+.dos {
+  background-color: #d4e6f1;
+}
+
+.tres {
+  background-color: #a9cce3;
+}
+
+.cuatro {
+  background-color: #7fb3d5;
+}
+
+.cinco {
+  background-color: #5499c7;
+}
+
+.color1 {
+  background-color: rgb(242, 215, 213);
+}
+
+.color2 {
+  background-color: rgb(230, 176, 170);
+}
+
+.color3 {
+  background-color: rgb(217, 136, 128);
+}
+
+.color4 {
+  background-color: rgb(205, 97, 85);
+}
+
+.color5 {
+  background-color: rgb(192, 57, 43);
+}
+
+.paleta1,
+.paleta2,
+.paleta3 {
+  font-family: "Mandali", sans-serif;
+  color: black;
+  font-size: 20px;
+}
+
+.colora {
+  background-color: hsl(283, 39%, 95%);
+}
+
+.colorb {
+  background-color: hsl(283, 39%, 91%);
+}
+
+.colorc {
+  background-color: hsl(283, 39%, 81%);
+}
+
+.colord {
+  background-color: hsl(283, 39%, 72%);
+}
+
+.colore {
+  background-color: hsl(283, 39%, 63%);
+}
